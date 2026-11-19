@@ -1,5 +1,5 @@
 def greet():
-    message = "git switch feature-professional-greeting."
+    message = "Welcome to the Enterprise Customer Portal."
     print(message)
 
 if __name__ == "__main__":
