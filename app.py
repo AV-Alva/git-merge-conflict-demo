@@ -1,5 +1,5 @@
 def greet():
-    message = "Welcome to our application."
+    message = "Hey there! Welcome to our awesome application!"
     print(message)
 
 if __name__ == "__main__":
